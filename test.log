@@ -1,0 +1,64 @@
+INFO:root:log this is line of execution
+INFO:root:this is my print
+WARNING:root:help for this me 
+INFO:root:This is my info logging
+ERROR:root:THis is my error 
+INFO:root:log this is line of execution
+INFO:root:this is my print
+WARNING:root:help for this me 
+INFO:root:This is my info logging
+ERROR:root:THis is my error 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:i am inside if statement and i am trying to check list type
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:log this is line of execution
+INFO:root:this is my print
+WARNING:root:help for this me 
+INFO:root:This is my info logging
+ERROR:root:THis is my error 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:i am inside if statement and i am trying to check list type
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:This is my info logging
+ERROR:root:THis is my error 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:i am inside if statement and i am trying to check list type
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:i am another  for loop for list inside list element
+INFO:root:we iterating throuhg our list and our local var is i 
+INFO:root:we iterating throuhg our list and our local var is i 
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 52d12c30-b069-468d-aee2-d663a0b0da10
