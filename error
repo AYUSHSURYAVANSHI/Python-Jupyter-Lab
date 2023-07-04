@@ -1,0 +1,3 @@
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 4c35f804-3320-48ed-b1cd-7a8f60eb6627
+ERROR:root:I am Trying to handle a Zerodivition error
